@@ -1,2 +1,2 @@
 # YetGenJumpPython1
-Bu repo jump python için açılmıştır.
+Bu repoyu yeni Jump içerikleri için oluşturduk.
