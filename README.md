@@ -1,7 +1,9 @@
 # YetGenJumpPython1
 
-# 1.Başlık
+# Bu Repo YetGen Jump Python İçerikleri İçin Oluşturuldu.
 
-## 2.Başlık
 
-### 3.Başlık
+
+
+
+
